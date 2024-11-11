@@ -1,4 +1,4 @@
-package com.github.mpalambonisi.Lab01;
+package com.github.mpalambonisi.lab01;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;
